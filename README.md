@@ -1,2 +1,0 @@
-# someProject
-Free Develop
